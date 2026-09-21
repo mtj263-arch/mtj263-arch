@@ -2,12 +2,12 @@
 
 ### AI Student | Machine Learning & Computer Vision | Python
 
-I'm a Bachelor's student in Artificial Intelligence with a strong interest in **Machine Learning, Computer Vision, Deep Learning, and AI Engineering**.
-I enjoy building practical AI systems, understanding the fundamentals behind machine learning algorithms, and continuously improving my technical skills through projects and hands-on learning.
+I'm a Bachelor's student in Artificial Intelligence with a strong interest in **Machine Learning, Computer Vision, Deep Learning and AI Engineering**.
+I enjoy building practical AI systems, understanding the fundamentals behind machine learning algorithms and continuously improving my technical skills through projects and hands on learning.
 
 ---
 
-## 🎓 Education
+## Education
 
 **Bachelor's in Artificial Intelligence**  
 The Islamia University of Bahawalpur  
@@ -15,7 +15,7 @@ Graduation: February 2027
 
 ---
 
-## 🤖 Areas of Interest
+## Areas of Interest
 
 - Artificial Intelligence
 - Machine Learning
@@ -27,7 +27,7 @@ Graduation: February 2027
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Programming
 - Python
@@ -35,7 +35,7 @@ Graduation: February 2027
 ### Machine Learning & Data
 - NumPy
 - Pandas
-- Scikit-learn
+- Scikit learn
 - Statistics & Probability
 
 ### Deep Learning
@@ -55,7 +55,7 @@ Graduation: February 2027
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
 - Strengthening Machine Learning fundamentals
 - Studying Stanford CS229
@@ -66,13 +66,13 @@ Graduation: February 2027
 
 ---
 
-## 📌 Featured Projects
+## Projects
 
 Coming soon...
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
 
 I'm particularly interested in research and practical applications of:
 
@@ -85,14 +85,14 @@ I'm particularly interested in research and practical applications of:
 
 ---
 
-## 🎯 Career Goal
+## Career Goal
 
-My long-term goal is to become a skilled **AI/ML Engineer and AI Researcher**, contribute to meaningful AI systems, and eventually pursue advanced research through a **PhD**.
+My long-term goal is to become a skilled **AI/ML Engineer and AI Researcher**, contribute to meaningful AI systems and eventually pursue advanced research through a **PhD**.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-Feel free to explore my repositories and follow my learning journey as I build, learn, and improve in Artificial Intelligence.
+Feel free to explore my repositories and follow my learning journey as I build, learn and improve in Artificial Intelligence.
 
 ---

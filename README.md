@@ -37,9 +37,6 @@ Graduation: February 2027
 - Scikit learn
 - Statistics & Probability
 
-### Deep Learning
-- PyTorch
-
 ### Computer Vision
 - OpenCV
 - YOLO

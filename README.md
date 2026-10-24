@@ -21,7 +21,6 @@ Graduation: February 2027
 - Machine Learning
 - Robotics & Autonomous Systems
 - Computer Vision
-- Deep Learning
 - Data Science
 - AI Research
 
@@ -47,19 +46,10 @@ Graduation: February 2027
 - Object Detection
 - Object Tracking
 
-### Tools & Technologies
-- Git
-- GitHub
-- SQLite
-- Arduino
-
 ---
 
 ## Current Focus
 
-- Strengthening Machine Learning fundamentals
-- Studying Stanford CS229
-- Learning Deep Learning with PyTorch
 - Developing Computer Vision systems
 - Building practical AI projects
 - Preparing for AI/ML research and industry opportunities
@@ -78,9 +68,7 @@ I'm particularly interested in research and practical applications of:
 
 - Computer Vision
 - Machine Learning
-- Deep Learning
 - Intelligent Autonomous Systems
-- Object Detection & Tracking
 - Robotics
 
 ---
